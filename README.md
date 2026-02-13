@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 - 🎓 Pursuing B.Tech in CSE (AI & ML specialization) at Lingaya's Vidyapeeth (Grade: 8.5/10).<br>- 💻 Experienced in Software Development & Generative AI, with impactful internships.<br>- 🤖 Skilled in LLMs, NLP, Model Optimization, Computer Vision, and deploying ML models as production-ready services.<br>- 📚 Published research on Ransomware Detection using Dynamic Behaviour Monitoring.<br>- 🌍 Always eager to collaborate, contribute to open-source, and push the boundaries of AI-driven innovation.<br><br>🚀 Projects<br>- AI-Based College Management System (MERN + NLP chatbot)<br>🔹 Reduced query resolution time by 40%<br>🔹 Secured sensitive academic data with RBAC<br>- Quiz Generator Using ML (Python, NLP, OCR)<br>🔹 Achieved 95% extraction accuracy<br>🔹 Increased document compatibility by 60<br><br>📈 Experience<br>- Software Developer Intern @ Inframantra Pvt Ltd<br>🔹 Optimized server response times by 30%<br>🔹 Architected scalable MySQL databases & deployed apps on AWS<br>- Generative AI Intern @ SmartBridge (NASSCOM)<br>🔹 Improved text generation with 15% higher ROUGE scores<br>🔹 Deployed ML models as FastAPI services with 99.9% uptime<br><br>✨ “Turning cutting-edge AI research into real-world solutions.”<br><br>
 
 
